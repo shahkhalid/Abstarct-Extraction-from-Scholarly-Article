@@ -1,2 +1,2 @@
-# Abstarct-Extraction-from-Scholarly-Article
-How to extract papers abstract from a give pdf curpos
+# Abstarct-Extraction-from-Scholarly-Articles
+How to extract papers abstract from a give pdf corpus
